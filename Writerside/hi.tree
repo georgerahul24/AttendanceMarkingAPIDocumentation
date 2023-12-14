@@ -9,6 +9,7 @@
     <toc-element topic="QR-Code.md">
         <toc-element topic="QR-Code-Verification.md"/>
     </toc-element>
+    <toc-element topic="Database-Schema.md"/>
     <toc-element topic="Face-Verification.md"/>
     <toc-element topic="User.md">
         <toc-element topic="Change-the-Password.md"/>
