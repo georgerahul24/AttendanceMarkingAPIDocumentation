@@ -9,9 +9,9 @@ Also, the database `UserChangesDetails` would also be updated with the necessary
 
 ## API Calls
 
-### API Address 
+### API Address
 
-The API address  is : <br>
+The API address is :
 `http://<IP Address>/user/api/changeIMEI/`
 
 ### Generating the OTP {collapsible="true"}
